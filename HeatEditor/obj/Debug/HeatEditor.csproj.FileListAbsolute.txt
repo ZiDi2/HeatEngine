@@ -19,3 +19,8 @@ C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\obj\Debug\HeatEditor.genrunt
 C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\obj\Debug\HeatEditor.csproj.AssemblyReference.cache
 C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\obj\Debug\GameProject\ProjectBrowserDialg.g.cs
 C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\obj\Debug\GameProject\ProjectBrowserDialg.baml
+C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\obj\Debug\GameProject\NewProjectView.g.cs
+C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\obj\Debug\GameProject\OpenProjectView.g.cs
+C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\obj\Debug\GameProject\NewProjectView.baml
+C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\obj\Debug\GameProject\OpenProjectView.baml
+C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs

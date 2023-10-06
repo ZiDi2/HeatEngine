@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\Łukasz\Desktop\Heat\HeatEngine\HeatEditor\App.xaml
-2-1269068463
+4-275611356
 
-4-140029372
+81380852541
 192-1533232326
-GameProject\ProjectBrowserDialg.xaml;MainWindow.xaml;
+GameProject\NewProjectView.xaml;GameProject\OpenProjectView.xaml;GameProject\ProjectBrowserDialg.xaml;MainWindow.xaml;
 
 False
 
